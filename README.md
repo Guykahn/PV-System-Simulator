@@ -21,7 +21,7 @@ This project simulates the performance of a photovoltaic (PV) solar panel system
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pv-system-simulator.git
+git clone https://github.com/Guykahn/pv-system-simulator.git
 cd pv-system-simulator
 ```
 
