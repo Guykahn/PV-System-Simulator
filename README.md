@@ -62,7 +62,7 @@ The simulator automatically aligns the chosen date and generates graphs for comp
 
 ## Author
 
-- **Guy Kahn** — [yourname](https://github.com/Guykahn)
+- **Guy Kahn** — [Guykahn](https://github.com/Guykahn)
 
 ## License
 
