@@ -64,6 +64,3 @@ The simulator automatically aligns the chosen date and generates graphs for comp
 
 - **Guy Kahn** — [Guykahn](https://github.com/Guykahn)
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
